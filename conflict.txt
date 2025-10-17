@@ -1,4 +1,4 @@
-Je modifie le ligne 1 dans master
-Ligne 2
+RESOLUTION : Nouvelle ligne 1
+RESOLUTION : Nouvelle ligne 2
 Ligne 3
 
